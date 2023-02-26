@@ -1,0 +1,13 @@
+head{
+    font-family: 'Urbanist', sans-serif;
+}
+
+button a:hover{
+    display: block;
+    background: #ff0000;
+    border-radius: 400px;
+    color: rgb(255, 255, 255);
+}
+a{
+    color: #000000;
+}
