@@ -13,3 +13,11 @@ a{
     color: #000000;
     transition-duration :990ms ;
 }
+.button{
+    transition:transform .3s;
+    cursor:pointer
+}
+ button:hover{
+    transform:scale(1.2)
+}
+        
