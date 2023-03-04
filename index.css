@@ -7,7 +7,9 @@ button a:hover{
     background: #ff0000;
     border-radius: 400px;
     color: rgb(255, 255, 255);
+    transition-duration :990ms ;
 }
 a{
     color: #000000;
+    transition-duration :990ms ;
 }
